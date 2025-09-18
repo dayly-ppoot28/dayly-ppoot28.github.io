@@ -1,7 +1,12 @@
 ---
 layout: page
 title: "About Me"
-css: ["about.css", "animate.css", "morphext.css"]
-js: ["morphext.min.js", "about.js"]
+permalink: /about/
 ---
-{% include about.html %}
+
+#sobre mi 
+hola ✌️
+soy **Dayly Crystel Puc Poot*, tengo 18 años y soy de cancún Quintana Roo, 
+actualmentes estoy estudiando Negocios internacionales en la universidad 
+del caribe.
+
