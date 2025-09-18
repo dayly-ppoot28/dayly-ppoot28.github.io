@@ -44,3 +44,25 @@ exclude:
 sass:
   style: compressed
 future: true
+# Menú de navegación
+nav:
+  - title: "Home"
+    url: "https://mysity.me/"
+  - title: "Projects"
+    url: "https://mysity.me/projects/"
+  - title: "Categories"
+    url: "https://mysity.me/categories/"
+  - title: "Tags"
+    url: "https://mysity.me/tags/"
+  - title: "About"
+    url: "https://mysity.me/about/"
+  - title: "Contact"
+    url: "https://mysity.me/contact/"
+
+# Opcional: redes sociales
+social:
+  github: dayly-ppoot28
+  instagram: @dayly-poot28
+  facebook: Dayly Poot
+  email: daylypoot@gmail.com
+
