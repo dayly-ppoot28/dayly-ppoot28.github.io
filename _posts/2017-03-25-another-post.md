@@ -5,8 +5,11 @@ date:   2025-09-17 17:30:00 +0000
 categories: default
 tags: test
 ---
-Hola yo soy Dayly.
+#Hola yo soy Dayly.
 Tengo **18** años,vivo en **Cancún Q.ROO**
+---
+## mis hobbies
+- Me gust
 
 I want some _italics_.
 
