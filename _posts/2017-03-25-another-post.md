@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "This is Just Another Post"
-date:   2017-03-25 01:30:13 +0800
+title:  "Sobre mí"
+date:   2025-09-17 17:30:00 +0000
 categories: default
 tags: test
 ---
-I have some text.
+Hola yo soy Dayly.
 
 I want some _italics_.
 
