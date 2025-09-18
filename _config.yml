@@ -16,7 +16,7 @@
 title: DAYLY CRYSTEL PUC POOT
 description: > # blog personal "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/matjek"
+baseurl: "/"
 url: "https://dayly-ppoot28.github.io"
 permalink: /:year/:month/:day/:title
 repository: ShawnTeoh/matjek
