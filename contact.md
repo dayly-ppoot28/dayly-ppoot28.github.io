@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Contact"
-css: ["contact.css"]
+permalink: /contact/
 ---
-<div class="col s12">
-  <div class="icontain">
-    <iframe src="{{site.contact_url}}">Loading...</iframe>
-  </div>
-</div>
+- **Correo:** daylypoot@gmail.com
+- **Teléfono:** +52 998 491 7438
+- **Instagram:** [@dayly-p28]
+- **Facebook:** [Dayly Poot]
+- **Github:** [dayly-ppoot28]
+  
