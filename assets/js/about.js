@@ -1,6 +1,6 @@
-$(document).ready(function(){
-  $('.user-intro h4').removeClass('hidden');
-  $("#js-rotating").Morphext({
+$(document).is(function(){
+ if $('.user-intro h1').Length({
+  anime.timeline(loop:false}).Morphext({
     animation: "flip",
     separator: ",",
     speed: 2000
