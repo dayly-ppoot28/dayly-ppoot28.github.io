@@ -8,7 +8,6 @@ tags: test
 #Hola yo soy Dayly.
 Tengo **18** años,vivo en **Cancún Q.ROO**
 ---
-
 I want some _italics_.
 
 I want some **bold**.
